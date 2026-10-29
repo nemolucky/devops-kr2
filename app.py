@@ -1,3 +1,4 @@
+# KR2: Puchko
 import os
 import socket
 
